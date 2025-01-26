@@ -1,5 +1,9 @@
-# Terms and Definitions Intro
+## Terms and Definitions
 
-## Demo terms, definitions and external definitions
+For the purposes of this document, the following terms and definitions apply.
 
-A demo of terms and definitions, and references to external definitions.
+ISO and IEC maintain terminological databases for use in standardization at the following addresses:
+
+ - ISO Online browsing platform: available at <https://www.iso.org/obp>
+ - IEC Electropedia: available at <http://www.electropedia.org/>
+  
