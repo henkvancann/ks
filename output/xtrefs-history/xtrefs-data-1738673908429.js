@@ -1,4 +1,4 @@
-{
+const allXTrefs = {
   "xtrefs": [
     {
       "externalSpec": "kmg-1",
@@ -85,8 +85,8 @@
       "owner": "henkvancann",
       "repo": "keri-main-glossary",
       "site": null,
-      "commitHash": "2b97e20a904dd2d62bdfecc435a8e1936c1cf95b",
-      "content": "[[def: configuration-traits, configuration traits]]\n\n~ a list of specially defined strings representing a configuration of a KEL. See [Configuration traits field](#configuration-traits-field).  \n~ Source: Dr. S.Smith, 2024\n~ More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/configuration-traits\">extended KERI glossary</a>\n"
+      "commitHash": "9a412e1c792fdb824b83d0e539bd6cdc640628e8",
+      "content": "[[def: configuration-traits, configuration traits]]\n\n~ a list of specially defined strings representing a configuration of a KEL. See (Configuration traits field)[#configuration-traits-field].  \n~ Source: Dr. S.Smith, 2024\n~ More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/configuration-traits\">extended KERI glossary</a>\n"
     },
     {
       "externalSpec": "kmg-1",
@@ -496,4 +496,4 @@
       "content": "This term was not found in the external repository."
     }
   ]
-}
+};
