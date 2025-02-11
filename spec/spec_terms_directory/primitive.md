@@ -1,7 +1,7 @@
 [[tref: kmg-1, primitive]]
 
-~ <!-- This is a copy of the saved remote text. Remove it if you like. It is automatically (re)generated --><span class="transcluded-xref-term">transcluded xref</span>
+~ <!-- This is a copy of the saved remote text. Remove it if you like. It is automatically (re)generated -->
 
-~ Commit Hash: not found
+~ <span class="meta-info"><span>![avatar](undefined) henkvancann</span> <span>[keri-main-glossary](https://github.com/henkvancann/keri-main-glossary)</span> <span class="commit-hash">Commit Hash: not found</span></span>
 
 ~ This term was not found in the external repository.

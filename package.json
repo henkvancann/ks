@@ -20,6 +20,9 @@
     "menu": "bash ./main.sh",
     "addremovexrefsource": "node src/server/add-remove-xref-source.js",
     "configure": "node src/server/configure.js",
-    "postinstall": "node postinstall-message.js"
+    "postinstall": "node postinstall-message.js",
+    "collectExternalReferencesCache": "node --no-warnings -e \"require('spec-up-t/src/collect-external-references.js').collectExternalReferences({cache: true})\"",
+    "collectExternalReferencesNoCache": "node --no-warnings -e \"require('spec-up-t/src/collect-external-references.js').collectExternalReferences({cache: false})\"",
+    "custom-update": "npm update && node -e \"require('spec-up-t/src/install-from-boilerplate/custom-update.js')\""
   }
 }
